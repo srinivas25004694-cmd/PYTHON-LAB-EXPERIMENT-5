@@ -41,10 +41,15 @@ To write a Python program to demonstrate tuple and related functions/operations 
 
 17.Display all the results.
 
+18.Stop the program.
+
 ## Source code
+![Output 1](./5.1.png)
 
-
+![Output 1](./5.2.png)
 
 
 ## Output
-18.Stop the program.
+![Output 1](./5.3.png)
+![Output 1](./5.4.png)
+
