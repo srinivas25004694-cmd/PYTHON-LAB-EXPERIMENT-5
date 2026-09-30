@@ -86,4 +86,8 @@ To write a Python program to calculate an employee’s net salary by taking the 
 13.Stop the program.
 
 ## SOURCE CODE
-![Output 1](./5.1.png)
+![Output 1](./5.5.png)
+
+## OUTPUT
+![Output 1](./5.6.png)
+
