@@ -54,5 +54,36 @@ To write a Python program to demonstrate tuple and related functions/operations 
 ![Output 1](./5.4.png)
 
 ## AIM
+To write a Python program to calculate an employee’s net salary by taking the employee’s name, age, and basic salary as input, calculating HRA and PF, and determining the employee’s job level based on the net salary.
 
+## ALGORITHM
 
+1.Start the program.
+
+2.Define a function EmpCalc().
+
+3.Get the employee’s name, age, and salary as input.
+
+4.Calculate HRA as 35% of the salary.
+
+5.Calculate PF as 25% of the salary.
+
+6.Calculate Net Salary:
+      Net Salary = Salary + HRA + PF
+
+7.Check the net salary:
+
+8.If net salary is between ₹30,000 and ₹1,00,000, display Senior Manager.
+
+9.If net salary is between ₹20,000 and ₹30,000, display Manager.
+
+10.Otherwise, display Front level job.
+
+11.Return the employee’s name, age, and net salary.
+
+12.Display the employee details.
+
+13.Stop the program.
+
+## SOURCE CODE
+![Output 1](./5.1.png)
